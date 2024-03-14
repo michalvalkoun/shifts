@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657989015792",
+    "project_id": "shifts-f6498",
+    "storage_bucket": "shifts-f6498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657989015792:android:b587bfa7e5713c7c190a35",
+        "android_client_info": {
+          "package_name": "cz.michalvalkoun.shifts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7zgQXyXiRS2zBf_hZL7CYRZITKqt_G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
