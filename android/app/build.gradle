@@ -30,7 +30,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace "cz.michalvalkoun.shifts"
-    compileSdkVersion flutter.compileSdkVersion
+    compileSdk flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
     compileOptions {
@@ -48,7 +48,7 @@ android {
 
     defaultConfig {
         applicationId "cz.michalvalkoun.shifts"
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
@@ -75,5 +75,3 @@ flutter {
 }
 
 dependencies {}
-
-apply plugin: 'com.google.gms.google-services'
